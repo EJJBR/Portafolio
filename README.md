@@ -1,5 +1,5 @@
 # Mi Portafolio Personal
-**[¡Visita el Portafolio en Vivo!](https://ejjbr.github.io/tu-repo-name/)** *(<- Recuerda actualizar este link con la URL real de tu GitHub Pages)*
+**[¡Visita el Portafolio en Vivo!](https://ejjbr.github.io/Portafolio/)**
 
 Portafolio personal diseñado y desarrollado desde cero para mostrar mis proyectos, habilidades y educación como futuro Ingeniero de Software.
 
